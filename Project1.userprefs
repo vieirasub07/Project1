@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GetSoldier.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MainMenu.cs" Line="14" Column="19" />
+      <File FileName="Assets/Scripts/ExperimentStats (1).cs" Line="39" Column="1" />
+      <File FileName="Assets/GetSoldier.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="Assets/Scripts/MainMenu.cs" line="47" offsetX="767" offsetY="690" expression="currentSceneStats.sceneDuration" liveUpdate="False" />
+    <Watch file="Assets/Scripts/MainMenu.cs" line="50" offsetX="767" offsetY="735" expression="currentSceneStats" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
